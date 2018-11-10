@@ -1,0 +1,5 @@
+dataset/*
+.DS_Store
+.ipynb_checkpoints
+dogs_dataset
+human_dataset
